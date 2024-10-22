@@ -2,7 +2,7 @@
 
 # Building Almost Reddit
 
-A social media platform built using React, Vite, and Appwrite, featuring authentication, thread creation, and media sharing. This project was developed for a workshop for [Appwrite Developer Meetup Delhi](https://lu.ma/oqelzoej).
+A social media platform built using React, Vite, and Appwrite, featuring authentication, thread creation, and media sharing. 
 
 ## What is Appwrite
 
